@@ -1,0 +1,1 @@
+import{a as o,o as t,c as s,b as _}from"./vue.562ccee8.js";import{_ as a}from"./_plugin-vue_export-helper.c27b6911.js";const n={class:"layout-footer pb5 pt2"},r=o({name:"layoutFooter"}),c=o({...r,setup(p){return(l,e)=>(t(),s("div",n,e[0]||(e[0]=[_("div",{class:"layout-footer-warp"},null,-1)])))}});const u=a(c,[["__scopeId","data-v-81b3403f"]]);export{u as default};
